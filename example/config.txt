@@ -1,0 +1,2 @@
+Prefix plugins/TSVRemove/example
+Plugin TSVRemove inputfile parameters.txt outputfile output.tsv

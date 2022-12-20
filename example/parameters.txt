@@ -1,0 +1,2 @@
+tsvfile	input.tsv
+indexfile	indices.txt
